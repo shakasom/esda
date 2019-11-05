@@ -8,3 +8,6 @@ What do you do when you want to explore patterns from data based on locations. H
 
 
 In this tutorial, I show you how you can perform Exploratory data analysis for your location data with simple and easy steps used Python. The code is available also for this tutorial in Github.
+
+
+![Local Spatial Autocorrelation](https://cdn-images-1.medium.com/max/640/1*SZKYsc7pGHC2tzqLwotYrg.png)
