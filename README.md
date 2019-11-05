@@ -1,2 +1,1 @@
-# esda
-Exploratory Spatial Data Analysis with Python
+# Exploratory Spatial Data Analysis (ESDA)
